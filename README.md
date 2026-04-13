@@ -25,7 +25,7 @@ Este repositório contém as atividades desenvolvidas na disciplina de Mobile. A
     dart run Atividade1/main.dart
 ```
 
-### Saída Esperada
+### 💻 Saída Esperada
 ```
 Hello World
 ```
