@@ -5,7 +5,6 @@
 ## 👤 Identificação
 * **Nome:** Luis Gustavo Moraes Kadanus
 * **Curso:** Análise e Desenvolvimento de Sistemas
-* **RA:** [Seu RA aqui]
 
 ## 📝 Descrição
 Este repositório contém as atividades desenvolvidas na disciplina de Mobile. A primeira etapa foca na configuração do ambiente Dart e execução de código básico.
@@ -21,9 +20,10 @@ Este repositório contém as atividades desenvolvidas na disciplina de Mobile. A
 1. Certifique-se de ter o **Dart SDK** instalado.
 2. Abra o terminal na raiz deste repositório.
 3. Execute o comando:
-   ```bash
-   dart run Atividade1/main.dart
-   ```
+
+```bash
+    dart run Atividade1/main.dart
+```
 
 ### Saída Esperada
 ```
